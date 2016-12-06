@@ -1,0 +1,17 @@
+.content {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.race-track {
+	height: 100px;
+	width: 120px;
+	background: black;
+}
+
+.player {
+	position: relative;
+	height: 20px;
+	width: 20px;
+	left: 0px;
+}
